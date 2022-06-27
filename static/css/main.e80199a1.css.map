@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e80199a1.css","mappings":"AAAA,MACI,cAAe,CAEf,iBAAkB,CADlB,eAEJ,CACA,QACI,cAEJ","sources":["components/TextForm.css"],"sourcesContent":[".dark{\r\n    font-size: 25px;\r\n    font-weight: 600;\r\n    font-style: italic;\r\n}\r\n.dark-1{\r\n    font-size: 20px;\r\n    \r\n}"],"names":[],"sourceRoot":""}
